@@ -15,5 +15,5 @@ I'm a beginner developer focused on building practical console applications and 
 
 ### Projects
 
-- **Flashcards** — console application for creating and studying flashcards
-- **Drinks Info** — console application using an external drinks API
+- **Flashcards** - console application for creating and studying flashcards
+- **Drinks Info** - console application using an external drinks API
