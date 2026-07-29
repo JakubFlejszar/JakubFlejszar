@@ -8,27 +8,9 @@
 
 <div data-importer="activities" align="center" style="width: 100%">
   <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@JakubFlejszar/0">
-    <img style="width: 100%" src="https://github-readme-medium-recent-article.vercel.app/medium/@JakubFlejszar/0" alt="Medium post 1"  />
   </a>
   <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@JakubFlejszar/1">
-    <img style="width: 100%" src="https://github-readme-medium-recent-article.vercel.app/medium/@JakubFlejszar/1" alt="Medium post 2"  />
   </a>
-</div>
-
-###
-
-<div data-importer="techs" align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="40" alt="microsoftsqlserver logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="40" alt="sqlite logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/dotnet/512BD4" height="40" alt="dot-net logo"  />
 </div>
 
 ###
