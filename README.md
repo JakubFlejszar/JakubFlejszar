@@ -65,14 +65,3 @@ Featured projects
     </td>
   </tr>
 </table>
-
-GitHub stats
-
-<div align="center">
-  <img height="165" src="https://github-stats-extended.vercel.app/api?username=JakubFlejszar&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Jakub's GitHub statistics" />
-  <img height="165" src="https://github-stats-extended.vercel.app/api/top-langs?username=JakubFlejszar&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Jakub's most used languages" />
-</div>
-
-<div align="center">
-  <sub>Learning consistently. Building independently. Improving with every project.</sub>
-</div>
