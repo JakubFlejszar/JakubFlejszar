@@ -30,7 +30,6 @@ Tech stack
 
 <div align="center">
   <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="SQL Server" />
-  <img src="https://img.shields.io/badge/Dapper-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt="Dapper" />
   <img src="https://img.shields.io/badge/Spectre.Console-7AA2F7?style=for-the-badge&logo=windows-terminal&logoColor=white" alt="Spectre Console" />
 </div>
 
