@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi, I'm learning C# and .NET 👋
 
-<!--
-**JakubFlejszar/JakubFlejszar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a beginner developer focused on building practical console applications and strengthening my programming fundamentals.
 
-Here are some ideas to get you started:
+### Currently
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 Building a flashcards application with C# and SQL Server
+- 🌱 Learning C#, .NET, SQL and working with APIs
+- 🧠 Practising writing code independently and debugging my own mistakes
+- 🎯 Working towards my first junior .NET developer role
+
+### Technologies
+
+`C#` `.NET` `SQL Server` `Git` `GitHub` `REST APIs`
+
+### Projects
+
+- **Flashcards** — console application for creating and studying flashcards
+- **Drinks Info** — console application using an external drinks API
