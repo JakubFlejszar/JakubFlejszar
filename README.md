@@ -8,11 +8,11 @@ Aspiring C# / .NET Developer
 
 </div>
 
-About me
+## About me
 
 I'm a self-taught beginner developer focused on C# and .NET. I learn by building practical applications, solving problems and improving my code step by step.
 
-🔭 Currently developing a console drinks_info application
+🔭 Currently developing a console ShiftsLogger application
 
 📖 Learning C#, .NET, SQL and REST APIs
 
@@ -20,35 +20,31 @@ I'm a self-taught beginner developer focused on C# and .NET. I learn by building
 
 🎯 Working towards my first Junior .NET Developer role
 
-Tech stack
+## Tech stack
 
-<div align="center"> <img src="https://skillicons.dev/icons?i=cs,dotnet,visualstudio,sqlite,git,github&theme=dark" alt="C#, .NET, Visual Studio, SQLite, Git and GitHub" /> </div>
-
-<br>
-
-<div align="center"> <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="SQL Server" /> <img src="https://img.shields.io/badge/Spectre.Console-7AA2F7?style=for-the-badge&logo=windows-terminal&logoColor=white" alt="Spectre Console" /> </div>
-
-Featured projects
-
-<table> <tr> <td width="50%" valign="top"> <h3 align="center"> <a href="https://github.com/JakubFlejszar/Flashcards">Flashcards</a> </h3> <p> A console application for creating and managing flashcard stacks, studying cards and tracking study sessions. </p> <p align="center"> <img src="https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=csharp&logoColor=white" alt="C#" /> <img src="https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white" alt=".NET" /> <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white" alt="SQL Server" /> </p> </td>
-
-<td width="50%" valign="top">
-  <h3 align="center">
-    <a href="https://github.com/JakubFlejszar/Coding-Tracker">Coding Tracker</a>
-  </h3>
-  <p>
-    A console application for tracking coding sessions, validating dates and automatically calculating time spent coding.
-  </p>
-  <p align="center">
-    <img src="https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=csharp&logoColor=white" alt="C#" />
-    <img src="https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white" alt=".NET" />
-    <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" alt="SQLite" />
-    <img src="https://img.shields.io/badge/Dapper-512BD4?style=flat-square&logo=dotnet&logoColor=white" alt="Dapper" />
-  </p>
-</td>
-
-</tr> </table>
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,visualstudio,sqlite,git,github&theme=dark" alt="C#, .NET, Visual Studio, SQLite, Git and GitHub" />
+</div>
 
 <br>
 
-<table align="center"> <tr> <td width="620px" valign="top"> <h3 align="center"> <a href="https://github.com/JakubFlejszar/Phone-Book">Phone Book</a> </h3> <p> A console application for managing contacts with features for adding, updating, deleting and viewing contacts. </p> <p align="center"> <img src="https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=csharp&logoColor=white" alt="C#" /> <img src="https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white" alt=".NET" /> <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white" alt="SQL Server" /> <img src="https://img.shields.io/badge/Entity%20Framework%20Core-512BD4?style=flat-square&logo=dotnet&logoColor=white" alt="Entity Framework Core" /> <img src="https://img.shields.io/badge/Spectre.Console-7AA2F7?style=flat-square&logo=windows-terminal&logoColor=white" alt="Spectre.Console" /> </p> </td> </tr> </table>
+<div align="center">
+  <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="SQL Server" />
+  <img src="https://img.shields.io/badge/Spectre.Console-7AA2F7?style=for-the-badge&logo=windows-terminal&logoColor=white" alt="Spectre Console" />
+</div>
+
+## Featured projects
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">
+        <a href="https://github.com/JakubFlejszar/Flashcards">Flashcards</a>
+      </h3>
+      <p>
+        A console application for creating and managing flashcard stacks, studying cards and tracking study sessions.
+      </p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=csharp&logoColor=white" alt="C#" />
+        <img src="https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white" alt=".NET" />
+        <img src="https://img.s
