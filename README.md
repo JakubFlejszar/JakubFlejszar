@@ -49,20 +49,39 @@ Featured projects
         <img src="https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white" alt=".NET" />
         <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white" alt="SQL Server" />
       </p>
-        </td>
-<td width="50%" valign="top"> <h3 align="center">
-  <a href="https://github.com/JakubFlejszar/Phone-Book">Phone Book</a>
-</h3>
-  <p>
-    A console application for managing contacts with features for adding, updating, deleting and viewing contacts.
-  </p> 
-  <p align="center">
-    <img src="https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=csharp&logoColor=white" alt="C#" />
-    <img src="https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white" alt=".NET" />
-    <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white" alt="SQL Server" />
-    <img src="https://img.shields.io/badge/Entity%20Framework%20Core-512BD4?style=flat-square&logo=dotnet&logoColor=white" alt="Entity Framework Core" />
-    <img src="https://img.shields.io/badge/Spectre.Console-7AA2F7?style=flat-square&logo=windows-terminal&logoColor=white" alt="Spectre.Console" /> 
-</p> 
-</td>
+    </td>
+
+    <td width="50%" valign="top">
+      <h3 align="center">
+        <a href="https://github.com/JakubFlejszar/Coding-Tracker">Coding Tracker</a>
+      </h3>
+      <p>
+        A console application for tracking coding sessions, validating dates and automatically calculating time spent coding.
+      </p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=csharp&logoColor=white" alt="C#" />
+        <img src="https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white" alt=".NET" />
+        <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" alt="SQLite" />
+        <img src="https://img.shields.io/badge/Dapper-512BD4?style=flat-square&logo=dotnet&logoColor=white" alt="Dapper" />
+      </p>
+    </td>
+  </tr>
+
+  <tr>
+    <td colspan="2" valign="top">
+      <h3 align="center">
+        <a href="https://github.com/JakubFlejszar/Phone-Book">Phone Book</a>
+      </h3>
+      <p>
+        A console application for managing contacts with features for adding, updating, deleting and viewing contacts.
+      </p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=csharp&logoColor=white" alt="C#" />
+        <img src="https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white" alt=".NET" />
+        <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white" alt="SQL Server" />
+        <img src="https://img.shields.io/badge/Entity%20Framework%20Core-512BD4?style=flat-square&logo=dotnet&logoColor=white" alt="Entity Framework Core" />
+        <img src="https://img.shields.io/badge/Spectre.Console-7AA2F7?style=flat-square&logo=windows-terminal&logoColor=white" alt="Spectre.Console" />
+      </p>
+    </td>
   </tr>
 </table>
