@@ -4,7 +4,7 @@ Hi, I'm Jakub 👋
 
 Aspiring C# / .NET Developer
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&pause=1000&color=7AA2F7&center=true&vCenter=true&width=620&lines=Learning+C%23+and+.NET;Building+practical+console+applications;Improving+one+project+at+a+time" alt="Typing introduction" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&pause=1000&color=7AA2F7&center=true&vCenter=true&width=620&lines=Learning+C%23+and+.NET;Building+practical+console+applications" alt="Typing introduction" />
 
 </div>
 
@@ -52,7 +52,7 @@ Featured projects
     </td>
     <td width="50%" valign="top">
       <h3 align="center">
-        <a href="https://github.com/JakubFlejszar/Coding-Tracker">Coding Tracker</a>
+        <a href="[https://github.com/JakubFlejszar/Coding-Tracker](https://github.com/JakubFlejszar/Phone-Book)">Coding Tracker</a>
       </h3>
       <p>
         A console application for tracking coding sessions, validating dates and automatically calculating time spent coding.
