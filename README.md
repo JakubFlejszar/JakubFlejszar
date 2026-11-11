@@ -34,6 +34,24 @@ I'm a self-taught beginner developer focused on C# and .NET. I learn by building
 </div>
 
 ## Featured projects
+<table align="center">
+  <tr>
+    <td width="700px" align="center">
+      <h2>
+        <a href="https://github.com/JakubFlejszar/tower-defense-game">Tower Defense Game</a>
+      </h2>
+      <p>
+        A medieval tower defense game made in Unity. Place towers on a grid, upgrade them and your castle, and survive waves of bandits.
+      </p>
+      <p>
+        <img src="https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=csharp&logoColor=white" alt="C#" />
+        <img src="https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity&logoColor=white" alt="Unity" />
+      </p>
+    </td>
+  </tr>
+</table>
+
+<br>
 
 <table align="center">
   <tr>
